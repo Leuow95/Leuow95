@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a Dev Flutter Jr.
 - 🌱 Studing Cubit, Clean Arch and tests.
-- 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: leuow95@gmail.com

@@ -9,6 +9,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm a Dev Flutter Jr.
-- 🌱 Studing Cubit, Clean Arch and tests.
+- 🔭 Flutter Developer
 - 📫 How to reach me: leuow95@gmail.com
